@@ -2,7 +2,7 @@
 title: 关于世界语网站
 author: esperisto
 layout: post
-archive: true
+archive: false
 comments: true
 categories:
   - 所想所悟
