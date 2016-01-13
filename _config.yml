@@ -1,5 +1,5 @@
-name: Wangana
-description:  Jekyll theme
+name: Flying Welkin
+description:  Ĉigo Esperisto's Website
 
 sass:
   sass_dir: assets/css/_sass
@@ -9,15 +9,15 @@ markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "tables", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
 
-url: https://nadjetey.github.io/wangana
+url: 
 permalink: /:year/:month/:title/
 owner:
-    name: #
-    twitter: #
-    github: #
-    disqus_shortname: #
+    name: esperisto
+    twitter: esperisto
+    github: esperisto
+    disqus_shortname: flyingwelkin
 
 ga_id: #
 ga_username: #
 
-timezone: Africa/Accra
+timezone: Asia/Chongqing
